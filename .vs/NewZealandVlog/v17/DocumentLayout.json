@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\ASP .Net proj\\NewZealandVlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36225E51-42DD-4AE5-97C5-653F7B887F8B}|NewZealandVlog.API\\NewZealandVlog.API.csproj|c:\\users\\lenovo\\documents\\asp .net proj\\newzealandvlog\\newzealandvlog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36225E51-42DD-4AE5-97C5-653F7B887F8B}|NewZealandVlog.API\\NewZealandVlog.API.csproj|solutionrelative:newzealandvlog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36225E51-42DD-4AE5-97C5-653F7B887F8B}|NewZealandVlog.API\\NewZealandVlog.API.csproj|c:\\users\\lenovo\\documents\\asp .net proj\\newzealandvlog\\newzealandvlog.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36225E51-42DD-4AE5-97C5-653F7B887F8B}|NewZealandVlog.API\\NewZealandVlog.API.csproj|solutionrelative:newzealandvlog.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36225E51-42DD-4AE5-97C5-653F7B887F8B}|NewZealandVlog.API\\NewZealandVlog.API.csproj|c:\\users\\lenovo\\documents\\asp .net proj\\newzealandvlog\\newzealandvlog.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36225E51-42DD-4AE5-97C5-653F7B887F8B}|NewZealandVlog.API\\NewZealandVlog.API.csproj|solutionrelative:newzealandvlog.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ASP .Net proj\\NewZealandVlog\\NewZealandVlog.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NewZealandVlog.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\ASP .Net proj\\NewZealandVlog\\NewZealandVlog.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NewZealandVlog.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T16:39:59.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ASP .Net proj\\NewZealandVlog\\NewZealandVlog.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NewZealandVlog.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\ASP .Net proj\\NewZealandVlog\\NewZealandVlog.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NewZealandVlog.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:04:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\ASP .Net proj\\NewZealandVlog\\NewZealandVlog.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "NewZealandVlog.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\ASP .Net proj\\NewZealandVlog\\NewZealandVlog.API\\WeatherForecast.cs",
+              "RelativeToolTip": "NewZealandVlog.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T16:04:22.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

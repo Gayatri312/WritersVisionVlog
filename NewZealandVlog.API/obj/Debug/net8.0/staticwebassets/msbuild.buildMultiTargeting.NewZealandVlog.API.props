@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NewZealandVlog.API.props" />
+</Project>
